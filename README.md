@@ -1,22 +1,34 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Renato do Carmo
+# 👋 Olá! Eu sou o <span style="color:#ec4899">Renato do Carmo</span>
 
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-<p>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8E%93&message=4%C2%BA%20Per%C3%ADodo%20da%20faculdade&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%93%85&message=26%20anos&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%93%8D&message=Nova%20Igua%C3%A7u%20-%20RJ&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%92%BC&message=Estagi%C3%A1rio%20de%20Suporte%20SEMED&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
+
+</div>
+
+<p align="center">
   🚀 Apaixonado por tecnologia e desenvolvimento de software<br>
   📚 Sempre aprendendo e buscando evoluir<br>
   🛠️ Explorando desenvolvimento Web, Backend e novas tecnologias
 </p>
 
-</div>
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Renatodocarmo&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Renatodocarmo&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
+<br>
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY5Y2E0eDMycjJ4YXVvMjN0bXEybHlpcDM4c3pqdnphcmVjbWt2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
