@@ -1,11 +1,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="gráfico de estatísticas" />
-
-  <img src="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatodocarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatodocarmo&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY5Y2E0eDMycjJ4YXVvMjN0bXEybHlpcDM4c3pqdnphcmVjbWt2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
