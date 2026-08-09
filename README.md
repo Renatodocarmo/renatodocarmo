@@ -1,9 +1,22 @@
-###
+<div align="center">
+
+# 👋 Olá! Eu sou o Renato do Carmo
+
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+<p>
+  🚀 Apaixonado por tecnologia e desenvolvimento de software<br>
+  📚 Sempre aprendendo e buscando evoluir<br>
+  🛠️ Explorando desenvolvimento Web, Backend e novas tecnologias
+</p>
+
+</div>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Renatodocarmo&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Renatodocarmo&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-###
+
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY5Y2E0eDMycjJ4YXVvMjN0bXEybHlpcDM4c3pqdnphcmVjbWt2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
