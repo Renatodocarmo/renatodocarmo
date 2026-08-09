@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8E%93&message=4%C2%BA%20Per%C3%ADodo%20da%20faculdade&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%93%85&message=26%20anos&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%93%8D&message=Nova%20Igua%C3%A7u%20-%20RJ&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%92%BC&message=Estagi%C3%A1rio%20de%20Suporte%20SEMED&color=1a1b27&style=for-the-badge&labelColor=1a1b27" height="45"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8E%93&message=4%C2%BA%20Per%C3%ADodo%20da%20faculdade&color=169b4c&style=for-the-badge&labelColor=169b4c" height="45"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%93%85&message=26%20anos&color=169b4c&style=for-the-badge&labelColor=169b4c" height="45"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%93%8D&message=Nova%20Igua%C3%A7u%20-%20RJ&color=169b4c&style=for-the-badge&labelColor=169b4c" height="45"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%92%BC&message=Estagi%C3%A1rio%20de%20Suporte%20SEMED&color=169b4c&style=for-the-badge&labelColor=169b4c" height="45"/>
 
 </div>
 
