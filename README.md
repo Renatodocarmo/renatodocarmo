@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- ═══════════ TÍTULO (nome em VERDE) ═══════════ -->
-<h1>👋 Olá! Eu sou o&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&color=00E676&vCenter=true&width=420&height=45&lines=Renato+do+Carmo" alt="Renato do Carmo"/>
-</h1>
+<!-- ═══════════ TÍTULO ═══════════ -->
+<h1>👋 Olá! Eu sou o</h1>
+
+<!-- Nome em VERDE com efeito de digitação, centralizado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=700&color=00E676&center=true&vCenter=true&width=560&height=70&lines=Renato+do+Carmo" alt="Renato do Carmo"/>
 
 <h3>💻 Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
@@ -23,9 +24,9 @@
 
 <br><br>
 
-<!-- ═══════════ GITHUB STATS (títulos em VERDE) ═══════════ -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatodocarmo&show_icons=true&bg_color=0d1117&border_color=00E676&title_color=00E676&icon_color=00E676&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatodocarmo&layout=compact&bg_color=0d1117&border_color=00E676&title_color=00E676&text_color=ffffff"/>
+<!-- ═══════════ GITHUB STATS (VERDE) ═══════════ -->
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Renatodocarmo&show_icons=true&bg_color=0d1117&border_color=00E676&title_color=00E676&icon_color=00E676&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Renatodocarmo&layout=compact&langs_count=8&bg_color=0d1117&border_color=00E676&title_color=00E676&text_color=ffffff"/>
 
 <br>
 
@@ -72,8 +73,4 @@
   </a>
 
   <a href="https://github.com/Renatodocarmo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=00E676&logoColor=white&style=for-the-badge" height="35" alt="logo github" />
-  </a>
-</div>
-
-</div>
+    <img src="https://img.sh
