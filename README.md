@@ -10,11 +10,11 @@
 
 ---
 
-<!-- ═══════════ CARDS DE INFORMAÇÕES ═══════════ -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8E%93&message=4%C2%BA%20Per%C3%ADodo%20da%20faculdade&color=00E676&style=for-the-badge&labelColor=0d1117" height="45"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%93%85&message=26%20anos&color=00E676&style=for-the-badge&labelColor=0d1117" height="45"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%93%8D&message=Nova%20Igua%C3%A7u%20-%20RJ&color=00E676&style=for-the-badge&labelColor=0d1117" height="45"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%92%BC&message=Estagi%C3%A1rio%20de%20Suporte%20SEMED&color=00E676&style=for-the-badge&labelColor=0d1117" height="45"/>
+<!-- ═══════════ CARDS DE INFORMAÇÕES (MAIORES) ═══════════ -->
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8E%93&message=4%C2%BA%20Per%C3%ADodo%20da%20faculdade&color=00E676&style=for-the-badge&labelColor=0d1117" height="60"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%93%85&message=26%20anos&color=00E676&style=for-the-badge&labelColor=0d1117" height="60"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%93%8D&message=Nova%20Igua%C3%A7u%20-%20RJ&color=00E676&style=for-the-badge&labelColor=0d1117" height="60"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%92%BC&message=Estagi%C3%A1rio%20de%20Suporte%20SEMED&color=00E676&style=for-the-badge&labelColor=0d1117" height="60"/>
 
 <br><br>
 
@@ -30,12 +30,9 @@
 
 <br>
 
-<!-- ═══════════ GIF ANIMADO ═══════════ -->
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY5Y2E0eDMycjJ4YXVvMjN0bXEybHlpcDM4c3pqdnphcmVjbWt2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+<!-- ═══════════ GIF (direita) + TECNOLOGIAS (esquerda) NA MESMA LINHA ═══════════ -->
+<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY5Y2E0eDMycjJ4YXVvMjN0bXEybHlpcDM4c3pqdnphcmVjbWt2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
-<br><br><br><br><br><br><br>
-
-<!-- ═══════════ TECNOLOGIAS ═══════════ -->
 <h3 align="left">🛠️ Tecnologias</h3>
 
 <div align="left">
@@ -53,6 +50,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="logo nodejs" />
 </div>
+
+<br clear="both">
+
+<!-- ═══════════ PAC-MAN COMENDO SEUS COMMITS ═══════════ -->
+<h3 align="left">👾 Pac-Man</h3>
+
+<img src="https://github-readme-pacman.vercel.app/?username=Renatodocarmo&theme=dark" alt="Pacman comendo contribuições"/>
 
 <br>
 
@@ -73,4 +77,8 @@
   </a>
 
   <a href="https://github.com/Renatodocarmo" target="_blank">
-    <img src="https://img.sh
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=00E676&logoColor=white&style=for-the-badge" height="35" alt="logo github" />
+  </a>
+</div>
+
+</div>
