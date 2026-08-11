@@ -53,14 +53,10 @@
 
 <br clear="both">
 
-<!-- ═══════════ PAC-MAN COMENDO SEUS COMMITS ═══════════ -->
+<!-- ═══════════ PAC-MAN COMENDO SEUS COMMITS (SEMPRE ESCURO) ═══════════ -->
 <h3 align="left">👾 Pac-Man</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph-dark.svg" alt="Pacman comendo contribuições"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph-dark.svg" alt="Pacman comendo contribuições"/>
 
 <!-- ═══════════ CONTATOS ═══════════ -->
 <h3 align="left">📬 Contatos</h3>
