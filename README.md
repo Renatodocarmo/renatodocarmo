@@ -59,7 +59,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph.svg">
-  <img alt="Pacman comendo contribuições" src="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Renatodocarmo/Renatodocarmo/output/pacman-contribution-graph-dark.svg" alt="Pacman comendo contribuições"/>
 </picture>
 
 <!-- ═══════════ CONTATOS ═══════════ -->
